@@ -15,6 +15,8 @@ Spring boot project that demonstrate integration tests using a docker container 
 | maven-antrun-plugin | sleep time for docker containers to be init|
 | flyway-maven-plugin | migrate goal to be executed manually & before running integration tests|
 
+## How to run
+mvn clean install
 
 ## Screenshots
 ![alt text](https://github.com/amr-fouda/integration-test-sample/blob/master/1_StartingContainers.png)
