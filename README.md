@@ -17,5 +17,5 @@ Spring boot project that demonstrate integration tests using a docker container 
 
 
 ## Screenshots
-![alt text](https://github.com/amr-fouda/integration-test-sample/blob/amr-fouda-patch-1/1_StartingContainers.png)
-![alt text](https://github.com/amr-fouda/integration-test-sample/blob/amr-fouda-patch-1/2_StoppingContainers.png)
+![alt text](https://github.com/amr-fouda/integration-test-sample/blob/master/1_StartingContainers.png)
+![alt text](https://github.com/amr-fouda/integration-test-sample/blob/master/2_StoppingContainers.png)
