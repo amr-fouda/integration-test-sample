@@ -1,0 +1,1 @@
+insert into users ( optlock , email) values (1, 'b@b.com');
